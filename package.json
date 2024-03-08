@@ -1,0 +1,23 @@
+{
+  "name": "conver-currency",
+  "version": "1.0.0",
+  "description": "Just Simple Convert Currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zipper393/conver-currency"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "exchange"
+  ],
+  "author": "zipper393",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
